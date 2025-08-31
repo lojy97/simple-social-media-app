@@ -24,10 +24,10 @@ Users can view a list of posts, click to see post details, and read comments wit
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](./screenshots/home.png)
+![Home Screen](./screenshots/home.jpg)
 
 ### Post Details
-![Post Details](./screenshots/details.png)
+![Post Details](./screenshots/details.jpg)
 
 ---
 
